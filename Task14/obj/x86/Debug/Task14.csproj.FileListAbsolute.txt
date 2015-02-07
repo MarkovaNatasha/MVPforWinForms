@@ -1,0 +1,8 @@
+D:\NaTaLi\Книги\bionic university\Task14\Task14\bin\Debug\Task14.exe
+D:\NaTaLi\Книги\bionic university\Task14\Task14\bin\Debug\Task14.pdb
+D:\NaTaLi\Книги\bionic university\Task14\Task14\obj\x86\Debug\Task14.Properties.Resources.resources
+D:\NaTaLi\Книги\bionic university\Task14\Task14\obj\x86\Debug\Task14.csproj.GenerateResource.Cache
+D:\NaTaLi\Книги\bionic university\Task14\Task14\obj\x86\Debug\Task14.exe
+D:\NaTaLi\Книги\bionic university\Task14\Task14\obj\x86\Debug\Task14.pdb
+D:\NaTaLi\Книги\bionic university\Task14\Task14\obj\x86\Debug\Task14.View.Form1.resources
+D:\NaTaLi\Книги\bionic university\Task14\Task14\obj\x86\Debug\Task14.csprojResolveAssemblyReference.cache
